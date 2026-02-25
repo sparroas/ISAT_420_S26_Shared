@@ -5,7 +5,7 @@ What did I learn about environmental/ social issues?
 - Risk pools, population type data sets 
 
 What skills and techniques did I learn or improve on?
-- Submitting Learning Notes correctly and following demonstrations in class exactly.
+- Submitting Learning Notes correctly and following demonstrations in class exactly
 
 What curious questions did arise and what stimulated them?
 - Sometimes I have an issue in GitHub Desktop, where the main dock or deck or whatever that is lists a lot of red, which I assume are errors. I'll come into office hours at some point to ask about these. 

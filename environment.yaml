@@ -1,0 +1,23 @@
+name: ISAT_420
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - numpy
+  - openpyxl
+  - pandas
+  - scipy
+  - seaborn
+  - xarray
+  - h5netcdf
+  - cdsapi
+  - cartopy
+  - pooch
+  - s3fs
+  - boto3
+  - geopandas
+prefix: C:\Users\Tobias\miniconda3\envs\ISAT_420
